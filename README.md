@@ -10,7 +10,7 @@
 [![G-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.victorofmoises@gmail.com)
 
 
-![Meforever21 GitHub stats](https://github-readme-stats.vercel.app/api?username=Meforever21&show_icons=true&theme=dracula)
+![ivitin GitHub stats](https://github-readme-stats.vercel.app/api?username=Meforever21&show_icons=true&theme=dracula)
 
 
 ## Tecnologias que eu uso 💻
