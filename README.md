@@ -1,6 +1,6 @@
 ### Olá jovens tudo bem ? Me chamo Victor Santos !!
 
-- Atualmente estou no último período de SISTEMAS DE INFORMAÇÃO: 
+- Atualmente estou no último período de **SISTEMAS DE INFORMAÇÃO**: 
 - **IA E SUAS TECNOLOGIAS** 🧠
 - **INTELIGÊNCIA ARTIFICIAL NA SAÚDE**🏥
 - **DATASCIENCE** 
