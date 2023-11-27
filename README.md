@@ -1,9 +1,13 @@
 ### Olá jovens tudo bem ? Me chamo Victor Santos !!
 
-- Atualmente estou estudando: 
-- Python e suas tecnologias 🐍
-- Ferramentas usadas para análises de dados 📊
-- Descobrindo o front-end e suas tecnologias🌐
+- Atualmente estou no último período de SISTEMAS DE INFORMAÇÃO: 
+- **IA E SUAS TECNOLOGIAS** 🧠
+- **INTELIGÊNCIA ARTIFICIAL NA SAÚDE**🏥
+- **DATASCIENCE** 
+- **RPA** 🤖
+- **POWER BI** 📊
+- **PYTHON** 🐍
+
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-mois%C3%A9s-354ba9241/)
