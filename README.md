@@ -1,9 +1,10 @@
 ### Olá jovens tudo bem ? Me chamo Victor Santos !!
 
-- Atualmente estou no último período de **SISTEMAS DE INFORMAÇÃO**: 
+- **GRADUADO EM SISTEMAS DE INFORMAÇÃO**: 
 - **IA E SUAS TECNOLOGIAS** 🧠
 - **INTELIGÊNCIA ARTIFICIAL NA SAÚDE**🏥
 - **DATASCIENCE** 
+- **DATAS ANALYSIS** 
 - **RPA** 🤖
 - **POWER BI** 📊
 - **PYTHON** 🐍
