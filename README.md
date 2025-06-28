@@ -1,25 +1,23 @@
-### Olá jovens tudo bem ? Me chamo Victor Santos !!
+### Hello everyone! How are you? I'm Victor Santos! 🚀
 
-- **GRADUADO EM SISTEMAS DE INFORMAÇÃO**: 
-- **IA E SUAS TECNOLOGIAS** 🧠
-- **INTELIGÊNCIA ARTIFICIAL NA SAÚDE**🏥
-- **DATASCIENCE** 
-- **DATAS ANALYSIS** 
+- **Graduated in Information Systems**
+- **AI and its Technologies** 🧠
+- **Artificial Intelligence in Healthcare** 🏥
+- **Data Science**
+- **Data Analysis**
 - **RPA** 🤖
-- **POWER BI** 📊
-- **PYTHON** 🐍
+- **Power BI** 📊
+- **Python** 🐍
 
+> 💡*I work with Artificial Intelligence across multiple sectors — including sales, industry, healthcare, and general-purpose applications — to optimize processes, generate insights, and drive strategic decision‑making.*  
 
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-mois%C3%A9s-354ba9241/)
-[![G-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.victorofmoises@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-mois%C3%A9s-354ba9241/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorofmoises@gmail.com)
 
 ![ivitin GitHub stats](https://github-readme-stats.vercel.app/api?username=ivitin&show_icons=true&theme=dracula)
 
-
-## Tecnologias que eu uso 💻
-<div style="display: inline-block"></br>
+## Technologies I Use 💻
+<div style="display: inline-block"><br/>
 
   <img align="center" alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
@@ -31,7 +29,7 @@
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-</div></br>
+</div><br/>
 
-## Minhas contribuições!
+## My Contributions  
 ![Snake animation](https://github.com/peregrinno/peregrinno/blob/output/github-contribution-grid-snake.svg)
